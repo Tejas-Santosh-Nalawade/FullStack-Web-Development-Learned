@@ -47,6 +47,7 @@ UPDATE chai_store SET price = 38.0 , available = TRUE  WHERE chai_name = 'Iced C
 Query 6 
 
 DELETE FROM chai_store WHERE chai_name  = 'Black Chai';
+
  SELECT * FROM chai_store;
 
 
